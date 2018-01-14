@@ -4,4 +4,4 @@ project(Baekjoon C)
 set(CMAKE_C_STANDARD 11)
 
 # 소스 코드를 변경하면 쉽게 실행가능함
-add_executable(Baekjoon src/11654.c)
+add_executable(Baekjoon src/10809.c)
