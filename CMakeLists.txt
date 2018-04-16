@@ -6,4 +6,4 @@ project(Baekjoon CXX)
 set(CMAKE_CXX_STANDARD 11)
 
 # 소스 코드를 변경하면 쉽게 실행가능함
-add_executable(Baekjoon src/9935.cpp)
+add_executable(Baekjoon src/1713.cpp)
